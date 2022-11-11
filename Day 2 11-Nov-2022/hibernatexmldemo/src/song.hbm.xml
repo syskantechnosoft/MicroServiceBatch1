@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC  
+ "-//Hibernate/Hibernate Mapping DTD//EN"  
+ "http://hibernate.sourceforge.net/hibernate-mapping.dtd">
+<hibernate-mapping>
+	<class name="com.tcs.hibernate.entity.Song" table="song">
+		<id name="id">
+			<generator class="assigned"></generator>
+		</id>
+		<property name="songName"></property>
+		<property name="artist"></property>
+	</class>
+</hibernate-mapping>  
