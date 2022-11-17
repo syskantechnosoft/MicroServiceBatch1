@@ -1,0 +1,7 @@
+com\tcs\monolith\model\Role.class
+com\tcs\monolith\repo\UserRepository.class
+com\tcs\monolith\model\User.class
+com\tcs\monolith\controller\UserController.class
+com\tcs\monolith\service\UserServiceImpl.class
+com\tcs\monolith\Day6monolithApplication.class
+com\tcs\monolith\service\UserService.class
